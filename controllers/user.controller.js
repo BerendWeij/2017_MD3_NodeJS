@@ -18,7 +18,7 @@ exports.list = function(req, res) {
     console.log("voor nu geven we altijd dezelfde lijst terug met users");
 
     var users = [
-        {name: "Beren"},
+        {name: "Berend"},
         {name: "Hugo"},
         {name: "Ingrid"}
     ];
